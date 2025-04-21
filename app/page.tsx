@@ -194,7 +194,7 @@ export default function AudioProcessor() {
 
   return (
     <div className="container mx-auto py-10">
-      <h1 className="text-3xl font-bold text-center mb-8">音频降噪处理工具</h1>
+      <h1 className="text-3xl font-bold text-center mb-8">公园陈大爷：音频降噪处理工具</h1>
 
       <div className="max-w-3xl mx-auto">
         <Tabs value={activeTab} onValueChange={setActiveTab} className="w-full">
@@ -243,7 +243,7 @@ export default function AudioProcessor() {
           <TabsContent value="process">
             <Card>
               <CardHeader>
-                <CardTitle>音频处理</CardTitle>
+                <CardTitle>陈大爷音频处理</CardTitle>
                 <CardDescription>调整参数并处理您的音频文件</CardDescription>
               </CardHeader>
               <CardContent className="space-y-6">
