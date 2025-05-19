@@ -1,4 +1,4 @@
-# Audio noise remover
+# Industrial product testing system
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
